@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://DENOHOST/sitemap.xml
+Sitemap: https://dautunhadat.tramnhadat.deno.net/sitemap.xml
